@@ -1,0 +1,1 @@
+Inicialmente eu tive alguns problemas com a instalação pois meu sistema operacional é o windows e no curso o professor usa o linux que tem uns comandos um poucos diferentes, mas no fim eu acabei usando e deu tudo certo
