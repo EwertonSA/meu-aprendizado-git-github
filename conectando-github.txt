@@ -1,0 +1,1 @@
+Algumas Informações sobre a conexão com o github, como subir arquivos e como trazer a atualização do código para a sua máquina 
