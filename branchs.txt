@@ -1,0 +1,1 @@
+Informações sobre as branchs e como elas podem ser utilizadas, e como solicitar um atualização feita em uma branch para a master.
